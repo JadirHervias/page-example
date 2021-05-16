@@ -31,6 +31,8 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portafolio</a></li>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">Acerca de</a></li>
+                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#experience">Experiencia</a></li>
+                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#learning-path">Cursos y capacitaciones</a></li>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contacto</a></li>
                 </ul>
             </div>
@@ -146,10 +148,10 @@
         </div>
     </section>
     <!-- Experience and Certificates Section-->
-    <section class="page-section bg-primary text-white mb-0" id="about">
+    <section class="page-section text-white mb-0" id="experience">
         <div class="container">
             <!-- About Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-white">Experiencia</h2>
+            <h2 class="page-section-heading text-center text-uppercase text-secondary">Experiencia</h2>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
@@ -157,34 +159,71 @@
                 <div class="divider-custom-line"></div>
             </div>
             <!-- About Section Content-->
-            <div class="row">
-                <div class="col-lg-4 ml-auto">
-                    <p class="lead"><strong>MEDLINK</strong></p>
-                </div>
-                <div class="col-lg-4 mr-auto">
-                    <p class="lead">Desarrollo y diseño de nuevos apartados para la plataforma web, replanteamiento de procesos que generan cuellos de botella en aspectos de rendimiento y mejora de la escalabilidad de la plataforma, logrando que la empresa estreche alianzas estratégicas con clínicas locales para captar más usuarios.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 ml-auto">
-                    <p class="lead"><strong>PLAYTEC 4.0</strong></p>
-                </div>
-                <div class="col-lg-4 mr-auto">
-                    <p class="lead">Aplicación de estrategias para redefinir la integración de servicios externos como Google para el guardado de archivos en la nube, simplificar procesos a nivel de código y mejorar el rendimiento, seguridad y escalabilidad para la nueva versión, logrando optimizar procesos, ganar escalabilidad y reducir errores para la plataforma MOOC Playtec Academy.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 ml-auto">
-                    <p class="lead"><strong>BIZLINKS</strong></p>
-                </div>
-                <div class="col-lg-4 mr-auto">
-                    <p class="lead">Implementación de un cliente web para el mantenimiento de usuarios de la plataforma del control de cobranzas, documentación del proyecto entero y migración de datos de diversas fuentes a una base de datos propia del sistema, logrando reducir el tiempo y esfuerzo para administrar las cobranzas de la empresa.</p>
+            <div class="uk-container uk-padding">
+                <div class="uk-timeline" style="justify-content: center;">
+                    <div class="uk-timeline-item">
+                        <div class="uk-timeline-icon">
+                            <div class="uk-badge"></div>
+                        </div>
+                        <div class="uk-timeline-content row text-secondary">
+                            <div class="col-lg-4 ml-auto">
+                                <p class="lead"><strong>2021</strong></p>
+                                <p class="lead"><strong>MEDLINK</strong></p>
+                            </div>
+                            <div class="col-lg-4 mr-auto">
+                                <p class="lead">
+                                    Desarrollo y diseño de nuevos apartados para la plataforma web, replanteamiento de procesos que
+                                    generan cuellos de botella en aspectos de rendimiento y mejora de la escalabilidad de la plataforma,
+                                    logrando que la empresa estreche alianzas estratégicas con clínicas locales para captar más usuarios.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="uk-timeline-item">
+                        <div class="uk-timeline-icon">
+                            <div class="uk-badge"></div>
+                        </div>
+                        <div class="uk-timeline-content row text-secondary">
+                            <div class="col-lg-4 ml-auto">
+                                <p class="lead"><strong>2020</strong></p>
+                                <p class="lead"><strong>PLAYTEC 4.0</strong></p>
+                            </div>
+                            <div class="col-lg-4 mr-auto">
+                                <p class="lead">
+                                    Aplicación de estrategias para redefinir la integración de servicios externos como Google para
+                                    el guardado de archivos en la nube, simplificar procesos a nivel de código y mejorar el rendimiento,
+                                    seguridad y escalabilidad para la nueva versión, logrando optimizar procesos, ganar escalabilidad y reducir
+                                    errores para la plataforma MOOC Playtec Academy.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="uk-timeline-item">
+                        <div class="uk-timeline-icon">
+                            <div class="uk-badge"></div>
+                        </div>
+                        <div class="uk-timeline-content row text-secondary">
+                            <div class="col-lg-4 ml-auto">
+                                <p class="lead"><strong>2020</strong></p>
+                                <p class="lead"><strong>BIZLINKS</strong></p>
+                            </div>
+                            <div class="col-lg-4 mr-auto">
+                                <p class="lead">
+                                    Implementación de un cliente web para el mantenimiento de usuarios de la plataforma del control
+                                    de cobranzas, documentación del proyecto entero y migración de datos de diversas fuentes a una base de datos
+                                    propia del sistema, logrando reducir el tiempo y esfuerzo para administrar las cobranzas de la empresa.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- Cursos y Capacitaciones -->
-    <section class="page-section bg-primary text-white mb-0" id="about">
+    <section class="page-section bg-primary text-white mb-0" id="learning-path">
         <div class="container">
             <!-- About Section Heading-->
             <h2 class="page-section-heading text-center text-uppercase text-white">Cursos y Capacitaciones</h2>
