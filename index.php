@@ -54,6 +54,13 @@
 
             <!-- Masthead Subheading-->
             <p class="masthead-subheading font-weight-light mb-0">Backend/Web Developer 🌐 - Node.js 🤘 - Devops enthusiastic 🚀</p>
+
+            <div class="col-lg-4 mb-lg-0 my-4">
+                <a class="btn btn-outline-light btn-social mx-1" href="https://linkedin.com/in/jadir-hervias" target="_blank"><i
+                        class="fab fa-fw fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/JadirHervias" target="_blank"><i
+                        class="fab fa-fw fa-github"></i></a>
+            </div>
         </div>
     </header>
     <!-- Portfolio Section-->
@@ -223,6 +230,90 @@
             </div>
         </div>
     </section>
+    <!-- Experience and Certificates Section-->
+    <section class="page-section text-white mb-0" id="education">
+        <div class="container">
+            <!-- About Section Heading-->
+            <h2 class="page-section-heading text-center text-uppercase text-secondary">Educaci&oacute;n</h2>
+            <!-- Icon Divider-->
+            <div class="divider-custom">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <!-- About Section Content-->
+            <div class="uk-container uk-padding">
+                <div class="uk-timeline" style="justify-content: center;">
+                    <div class="uk-timeline-item">
+                        <div class="uk-timeline-icon">
+                            <div class="uk-badge"></div>
+                        </div>
+                        <div class="uk-timeline-content row text-secondary">
+                            <div class="col-lg-4 ml-auto">
+                                <p class="lead"><strong>2021</strong></p>
+                                <p class="lead"><strong>MEDLINK</strong></p>
+                            </div>
+                            <div class="col-lg-4 mr-auto">
+                                <p class="lead">
+                                    Desarrollo y diseño de nuevos apartados para la plataforma web, replanteamiento de
+                                    procesos que
+                                    generan cuellos de botella en aspectos de rendimiento y mejora de la escalabilidad de la
+                                    plataforma,
+                                    logrando que la empresa estreche alianzas estratégicas con clínicas locales para captar
+                                    más usuarios.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div class="uk-timeline-item">
+                        <div class="uk-timeline-icon">
+                            <div class="uk-badge"></div>
+                        </div>
+                        <div class="uk-timeline-content row text-secondary">
+                            <div class="col-lg-4 ml-auto">
+                                <p class="lead"><strong>2020</strong></p>
+                                <p class="lead"><strong>PLAYTEC 4.0</strong></p>
+                            </div>
+                            <div class="col-lg-4 mr-auto">
+                                <p class="lead">
+                                    Aplicación de estrategias para redefinir la integración de servicios externos como
+                                    Google para
+                                    el guardado de archivos en la nube, simplificar procesos a nivel de código y mejorar el
+                                    rendimiento,
+                                    seguridad y escalabilidad para la nueva versión, logrando optimizar procesos, ganar
+                                    escalabilidad y reducir
+                                    errores para la plataforma MOOC Playtec Academy.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div class="uk-timeline-item">
+                        <div class="uk-timeline-icon">
+                            <div class="uk-badge"></div>
+                        </div>
+                        <div class="uk-timeline-content row text-secondary">
+                            <div class="col-lg-4 ml-auto">
+                                <p class="lead"><strong>2020</strong></p>
+                                <p class="lead"><strong>BIZLINKS</strong></p>
+                            </div>
+                            <div class="col-lg-4 mr-auto">
+                                <p class="lead">
+                                    Implementación de un cliente web para el mantenimiento de usuarios de la plataforma del
+                                    control
+                                    de cobranzas, documentación del proyecto entero y migración de datos de diversas fuentes
+                                    a una base de datos
+                                    propia del sistema, logrando reducir el tiempo y esfuerzo para administrar las cobranzas
+                                    de la empresa.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Cursos y Capacitaciones -->
     <section class="page-section bg-primary text-white mb-0" id="learning-path">
         <div class="container">
@@ -332,14 +423,14 @@
                 <!-- Footer Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Redes Sociales</h4>
-                    <a class="btn btn-outline-light btn-social mx-1" href="https://linkedin.com/in/jadir-hervias"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/JadirHervias"><i class="fab fa-fw fa-github"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://linkedin.com/in/jadir-hervias" target="_blank"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/JadirHervias" target="_blank"><i class="fab fa-fw fa-github"></i></a>
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">
                     <h4 class="text-uppercase mb-4">Jadir Hervias</h4>
                     <p class="lead mb-0">
-                        945 638 628
+                        (+51) 945 638 628
                         <br>
                         (01) 542-1108
                     </p>
